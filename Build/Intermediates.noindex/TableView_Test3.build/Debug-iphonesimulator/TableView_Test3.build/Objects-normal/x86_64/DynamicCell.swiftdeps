@@ -1,0 +1,392 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DynamicCell"
+provides-nominal:
+- "15TableView_Test311DynamicCellC"
+provides-member:
+- ["15TableView_Test311DynamicCellC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "lblDetail"
+- "lblTitle"
+- "setSelected"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "CellComponents"
+- "DynamicCell"
+- "UILabel"
+- "UITableViewCell"
+depends-member:
+- !private ["So15CALayerDelegateP", "CellComponents"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "awakeFromNib"]
+- !private ["So15CALayerDelegateP", "commonInit"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "lblDetail"]
+- !private ["So15CALayerDelegateP", "lblTitle"]
+- !private ["So15CALayerDelegateP", "restorationIdentifier"]
+- !private ["So15CALayerDelegateP", "setSelected"]
+- !private ["So15CALayerDelegateP", "setup"]
+- !private ["s7CVarArgP", "CellComponents"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "awakeFromNib"]
+- !private ["s7CVarArgP", "commonInit"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lblDetail"]
+- !private ["s7CVarArgP", "lblTitle"]
+- !private ["s7CVarArgP", "restorationIdentifier"]
+- !private ["s7CVarArgP", "setSelected"]
+- !private ["s7CVarArgP", "setup"]
+- !private ["15TableView_Test311CellBindingP", "CellComponents"]
+- !private ["15TableView_Test311CellBindingP", "commonInit"]
+- !private ["15TableView_Test311CellBindingP", "lblDetail"]
+- !private ["15TableView_Test311CellBindingP", "lblTitle"]
+- !private ["15TableView_Test311CellBindingP", "setup"]
+- !private ["15TableView_Test314CellComponentsO", "detail"]
+- !private ["15TableView_Test314CellComponentsO", "restorationId"]
+- !private ["15TableView_Test314CellComponentsO", "title"]
+- !private ["s28CustomDebugStringConvertibleP", "CellComponents"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "awakeFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "commonInit"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lblDetail"]
+- !private ["s28CustomDebugStringConvertibleP", "lblTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "restorationIdentifier"]
+- !private ["s28CustomDebugStringConvertibleP", "setSelected"]
+- !private ["s28CustomDebugStringConvertibleP", "setup"]
+- !private ["s17CustomReflectableP", "restorationIdentifier"]
+- !private ["s23CustomStringConvertibleP", "CellComponents"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "awakeFromNib"]
+- !private ["s23CustomStringConvertibleP", "commonInit"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lblDetail"]
+- !private ["s23CustomStringConvertibleP", "lblTitle"]
+- !private ["s23CustomStringConvertibleP", "restorationIdentifier"]
+- !private ["s23CustomStringConvertibleP", "setSelected"]
+- !private ["s23CustomStringConvertibleP", "setup"]
+- !private ["Se", "restorationIdentifier"]
+- ["15TableView_Test311DynamicCellC", "Bool"]
+- !private ["15TableView_Test311DynamicCellC", "CellComponents"]
+- ["15TableView_Test311DynamicCellC", "UILabel"]
+- ["15TableView_Test311DynamicCellC", "awakeFromNib"]
+- !private ["15TableView_Test311DynamicCellC", "commonInit"]
+- ["15TableView_Test311DynamicCellC", "deinit"]
+- ["15TableView_Test311DynamicCellC", "init"]
+- ["15TableView_Test311DynamicCellC", "lblDetail"]
+- ["15TableView_Test311DynamicCellC", "lblTitle"]
+- ["15TableView_Test311DynamicCellC", "setSelected"]
+- !private ["15TableView_Test311DynamicCellC", "setup"]
+- !private ["SE", "restorationIdentifier"]
+- !private ["SQ", "CellComponents"]
+- ["SQ", ""]
+- !private ["SQ", "awakeFromNib"]
+- !private ["SQ", "commonInit"]
+- !private ["SQ", "detail"]
+- !private ["SQ", "init"]
+- !private ["SQ", "lblDetail"]
+- !private ["SQ", "lblTitle"]
+- !private ["SQ", "restorationId"]
+- !private ["SQ", "restorationIdentifier"]
+- !private ["SQ", "setSelected"]
+- !private ["SQ", "setup"]
+- !private ["SQ", "title"]
+- !private ["s23ExpressibleByNilLiteralP", "restorationIdentifier"]
+- !private ["SH", "CellComponents"]
+- ["SH", ""]
+- !private ["SH", "awakeFromNib"]
+- !private ["SH", "commonInit"]
+- !private ["SH", "detail"]
+- !private ["SH", "init"]
+- !private ["SH", "lblDetail"]
+- !private ["SH", "lblTitle"]
+- !private ["SH", "restorationId"]
+- !private ["SH", "restorationIdentifier"]
+- !private ["SH", "setSelected"]
+- !private ["SH", "setup"]
+- !private ["SH", "title"]
+- !private ["So8NSCodingP", "CellComponents"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "awakeFromNib"]
+- !private ["So8NSCodingP", "commonInit"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lblDetail"]
+- !private ["So8NSCodingP", "lblTitle"]
+- !private ["So8NSCodingP", "restorationIdentifier"]
+- !private ["So8NSCodingP", "setSelected"]
+- !private ["So8NSCodingP", "setup"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "CellComponents"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "awakeFromNib"]
+- ["So8NSObjectC", "commonInit"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "lblDetail"]
+- ["So8NSObjectC", "lblTitle"]
+- !private ["So8NSObjectC", "restorationIdentifier"]
+- ["So8NSObjectC", "setSelected"]
+- !private ["So8NSObjectC", "setup"]
+- !private ["So8NSObjectP", "CellComponents"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "awakeFromNib"]
+- !private ["So8NSObjectP", "commonInit"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lblDetail"]
+- !private ["So8NSObjectP", "lblTitle"]
+- !private ["So8NSObjectP", "restorationIdentifier"]
+- !private ["So8NSObjectP", "setSelected"]
+- !private ["So8NSObjectP", "setup"]
+- !private ["Sq", "restorationIdentifier"]
+- !private ["So29UIAccessibilityIdentificationP", "CellComponents"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
+- !private ["So29UIAccessibilityIdentificationP", "commonInit"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "lblDetail"]
+- !private ["So29UIAccessibilityIdentificationP", "lblTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "restorationIdentifier"]
+- !private ["So29UIAccessibilityIdentificationP", "setSelected"]
+- !private ["So29UIAccessibilityIdentificationP", "setup"]
+- !private ["So12UIAppearanceP", "CellComponents"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "awakeFromNib"]
+- !private ["So12UIAppearanceP", "commonInit"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "lblDetail"]
+- !private ["So12UIAppearanceP", "lblTitle"]
+- !private ["So12UIAppearanceP", "restorationIdentifier"]
+- !private ["So12UIAppearanceP", "setSelected"]
+- !private ["So12UIAppearanceP", "setup"]
+- !private ["So21UIAppearanceContainerP", "CellComponents"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "awakeFromNib"]
+- !private ["So21UIAppearanceContainerP", "commonInit"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "lblDetail"]
+- !private ["So21UIAppearanceContainerP", "lblTitle"]
+- !private ["So21UIAppearanceContainerP", "restorationIdentifier"]
+- !private ["So21UIAppearanceContainerP", "setSelected"]
+- !private ["So21UIAppearanceContainerP", "setup"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "restorationIdentifier"]
+- !private ["So17UICoordinateSpaceP", "CellComponents"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "awakeFromNib"]
+- !private ["So17UICoordinateSpaceP", "commonInit"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "lblDetail"]
+- !private ["So17UICoordinateSpaceP", "lblTitle"]
+- !private ["So17UICoordinateSpaceP", "restorationIdentifier"]
+- !private ["So17UICoordinateSpaceP", "setSelected"]
+- !private ["So17UICoordinateSpaceP", "setup"]
+- !private ["So13UIDynamicItemP", "CellComponents"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "awakeFromNib"]
+- !private ["So13UIDynamicItemP", "commonInit"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "lblDetail"]
+- !private ["So13UIDynamicItemP", "lblTitle"]
+- !private ["So13UIDynamicItemP", "restorationIdentifier"]
+- !private ["So13UIDynamicItemP", "setSelected"]
+- !private ["So13UIDynamicItemP", "setup"]
+- !private ["So18UIFocusEnvironmentP", "CellComponents"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "awakeFromNib"]
+- !private ["So18UIFocusEnvironmentP", "commonInit"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "lblDetail"]
+- !private ["So18UIFocusEnvironmentP", "lblTitle"]
+- !private ["So18UIFocusEnvironmentP", "restorationIdentifier"]
+- !private ["So18UIFocusEnvironmentP", "setSelected"]
+- !private ["So18UIFocusEnvironmentP", "setup"]
+- !private ["So11UIFocusItemP", "CellComponents"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "awakeFromNib"]
+- !private ["So11UIFocusItemP", "commonInit"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "lblDetail"]
+- !private ["So11UIFocusItemP", "lblTitle"]
+- !private ["So11UIFocusItemP", "restorationIdentifier"]
+- !private ["So11UIFocusItemP", "setSelected"]
+- !private ["So11UIFocusItemP", "setup"]
+- !private ["So20UIFocusItemContainerP", "CellComponents"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "awakeFromNib"]
+- !private ["So20UIFocusItemContainerP", "commonInit"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "lblDetail"]
+- !private ["So20UIFocusItemContainerP", "lblTitle"]
+- !private ["So20UIFocusItemContainerP", "restorationIdentifier"]
+- !private ["So20UIFocusItemContainerP", "setSelected"]
+- !private ["So20UIFocusItemContainerP", "setup"]
+- !private ["So27UIGestureRecognizerDelegateP", "CellComponents"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- !private ["So27UIGestureRecognizerDelegateP", "awakeFromNib"]
+- !private ["So27UIGestureRecognizerDelegateP", "commonInit"]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So27UIGestureRecognizerDelegateP", "lblDetail"]
+- !private ["So27UIGestureRecognizerDelegateP", "lblTitle"]
+- !private ["So27UIGestureRecognizerDelegateP", "setSelected"]
+- !private ["So27UIGestureRecognizerDelegateP", "setup"]
+- !private ["So7UILabelC", "restorationIdentifier"]
+- !private ["So30UIPasteConfigurationSupportingP", "CellComponents"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "awakeFromNib"]
+- !private ["So30UIPasteConfigurationSupportingP", "commonInit"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "lblDetail"]
+- !private ["So30UIPasteConfigurationSupportingP", "lblTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "restorationIdentifier"]
+- !private ["So30UIPasteConfigurationSupportingP", "setSelected"]
+- !private ["So30UIPasteConfigurationSupportingP", "setup"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "CellComponents"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "commonInit"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "lblDetail"]
+- ["So11UIResponderC", "lblTitle"]
+- !private ["So11UIResponderC", "restorationIdentifier"]
+- ["So11UIResponderC", "setSelected"]
+- !private ["So11UIResponderC", "setup"]
+- !private ["So30UIResponderStandardEditActionsP", "CellComponents"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
+- !private ["So30UIResponderStandardEditActionsP", "commonInit"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "lblDetail"]
+- !private ["So30UIResponderStandardEditActionsP", "lblTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "restorationIdentifier"]
+- !private ["So30UIResponderStandardEditActionsP", "setSelected"]
+- !private ["So30UIResponderStandardEditActionsP", "setup"]
+- ["So15UITableViewCellC", "Bool"]
+- !private ["So15UITableViewCellC", "CellComponents"]
+- ["So15UITableViewCellC", "UILabel"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "awakeFromNib"]
+- ["So15UITableViewCellC", "commonInit"]
+- ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "lblDetail"]
+- ["So15UITableViewCellC", "lblTitle"]
+- ["So15UITableViewCellC", "setSelected"]
+- !private ["So15UITableViewCellC", "setup"]
+- !private ["So18UITraitEnvironmentP", "CellComponents"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "awakeFromNib"]
+- !private ["So18UITraitEnvironmentP", "commonInit"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "lblDetail"]
+- !private ["So18UITraitEnvironmentP", "lblTitle"]
+- !private ["So18UITraitEnvironmentP", "restorationIdentifier"]
+- !private ["So18UITraitEnvironmentP", "setSelected"]
+- !private ["So18UITraitEnvironmentP", "setup"]
+- !private ["So23UIUserActivityRestoringP", "CellComponents"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "awakeFromNib"]
+- !private ["So23UIUserActivityRestoringP", "commonInit"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "lblDetail"]
+- !private ["So23UIUserActivityRestoringP", "lblTitle"]
+- !private ["So23UIUserActivityRestoringP", "restorationIdentifier"]
+- !private ["So23UIUserActivityRestoringP", "setSelected"]
+- !private ["So23UIUserActivityRestoringP", "setup"]
+- ["So6UIViewC", "Bool"]
+- !private ["So6UIViewC", "CellComponents"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "commonInit"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "lblDetail"]
+- ["So6UIViewC", "lblTitle"]
+- !private ["So6UIViewC", "restorationIdentifier"]
+- ["So6UIViewC", "setSelected"]
+- !private ["So6UIViewC", "setup"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CellComponents"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "awakeFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commonInit"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lblDetail"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lblTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restorationIdentifier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setSelected"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setup"]
+- !private ["s21_ObjectiveCBridgeableP", "restorationIdentifier"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "CellComponents"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "commonInit"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "lblDetail"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "lblTitle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "restorationIdentifier"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setSelected"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setup"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "15TableView_Test311CellBindingP"
+- !private "15TableView_Test314CellComponentsO"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- "15TableView_Test311DynamicCellC"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "13c4be2fe2a5d9a09d18d2c67e494fe1"

@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "6a338c50b795fcc6fd814725f7755bf1"
+build_time: [1570438053, 615183000]
+inputs:
+  "/Users/Leex/TableView_Test3/TableView_Test3/Common/Extensions.swift": [1569913918, 268034731]
+  "/Users/Leex/TableView_Test3/TableView_Test3/Cells/CollectionViewCells/DynamicCollectionCell.swift": [1570291611, 739545230]
+  "/Users/Leex/TableView_Test3/TableView_Test3/Cells/TableViewCells/DynamicCell.swift": [1569840342, 991162532]
+  "/Users/Leex/TableView_Test3/TableView_Test3/ViewController.swift": [1570435094, 92469493]
+  "/Users/Leex/TableView_Test3/TableView_Test3/ViewModel/ViewModel.swift": [1570438034, 555791474]
+  "/Users/Leex/TableView_Test3/TableView_Test3/AppDelegate.swift": [1570005859, 53562803]
+  "/Users/Leex/TableView_Test3/TableView_Test3/APIManager/APIClient.swift": [1569913966, 222017843]
+  "/Users/Leex/TableView_Test3/TableView_Test3/Cells/CellBinding.swift": [1570094866, 634286634]
+  "/Users/Leex/TableView_Test3/TableView_Test3/Cells/CellComponents.swift": [1569840291, 887088753]
